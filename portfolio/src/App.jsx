@@ -78,16 +78,6 @@ export default function App() {
             <Github size={28} className="hover:text-blue-600" />
           </a>
         </div>
-
-        {/* Resume Button */}
-        <a
-          href="/resume.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="mt-6 px-6 py-3 bg-gradient-to-r from-blue-600 to-teal-600 text-white font-medium rounded-full shadow-lg hover:shadow-xl transition"
-        >
-          View Resume
-        </a>
       </section>
 
       {/* Skills Section */}
