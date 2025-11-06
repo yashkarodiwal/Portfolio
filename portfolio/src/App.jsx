@@ -228,8 +228,8 @@ export default function App() {
       <section className="max-w-6xl mx-auto px-6 py-16">
         <h2 className="text-3xl font-bold mb-6 text-blue-600">Certifications</h2>
         <ul className="list-disc list-inside text-gray-700 dark:text-gray-300 space-y-2">
-          <li>NPTEL: The Joy of Computing using Python, Programming in Modern C++, Programming in Java (2024–25)</li>
-          <li>Spoken Tutorial IIT Bombay: Python 3.4.3, Java, Linux, Advanced Cpp (2023–25)</li>
+          <li>NPTEL: Python, Java, C++, C (2024–25)</li>
+          <li>Spoken Tutorial IIT Bombay: JavaScript, Python, Java, Linux, Advanced Cpp (2023–25)</li>
           <li>Infosys Springboard Certifications</li>
         </ul>
       </section>
