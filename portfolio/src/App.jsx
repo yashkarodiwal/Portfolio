@@ -145,6 +145,29 @@ export default function App() {
               ))}
             </div>
           </div>
+
+          {/* Generative AI & LLM Skills */}
+<div className="p-6 bg-white dark:bg-gray-800 rounded-2xl shadow-lg hover:shadow-2xl transition">
+  <h3 className="font-semibold text-xl text-blue-600 mb-4">
+    Generative AI & LLM Skills
+  </h3>
+  <div className="flex flex-wrap gap-2">
+    {[
+      "LLMs & GenAI Fundamentals",
+      "Prompt Engineering",
+      "AI Content & Summarization",
+      "Responsible AI",
+      "AI Workflow Automation",
+    ].map((skill) => (
+      <span
+        key={skill}
+        className="px-3 py-1 bg-orange-100 text-orange-700 dark:bg-orange-900 dark:text-orange-200 rounded-full text-sm font-medium"
+      >
+        {skill}
+      </span>
+    ))}
+  </div>
+</div>
         </div>
       </section>
 
@@ -229,6 +252,7 @@ export default function App() {
         <h2 className="text-3xl font-bold mb-6 text-blue-600">Certifications</h2>
         <ul className="list-disc list-inside text-gray-700 dark:text-gray-300 space-y-2">
           <li>NPTEL: Python, Java, C++, C (2024–25)</li>
+          <li>Career Essentials in Generative AI by Microsoft and LinkedIn (2025)</li>
           <li>Spoken Tutorial IIT Bombay: JavaScript, Python, Java, Linux, Advanced Cpp (2023–25)</li>
           <li>Infosys Springboard Certifications</li>
         </ul>
