@@ -177,7 +177,7 @@ export default function App() {
         <div className="grid md:grid-cols-2 gap-6">
           {/* Project 1 */}
           <div className="p-6 bg-white dark:bg-gray-800 rounded-2xl shadow-lg hover:shadow-2xl transition">
-            <h3 className="font-bold text-xl text-blue-600">Online Learning Platform | MERN</h3>
+            <h3 className="font-bold text-xl text-blue-600">E-Learning Platform | MERN</h3>
             <p className="text-gray-600 dark:text-gray-300 mt-2">
               Full-stack e-learning platform with authentication, dashboards, live sessions, and payment integration.
             </p>
@@ -233,7 +233,7 @@ export default function App() {
       <section className="max-w-6xl mx-auto px-6 py-16">
         <h2 className="text-3xl font-bold mb-6 text-blue-600">Experience</h2>
         <ul className="space-y-4 text-gray-700 dark:text-gray-300">
-          <li><strong>Web Development Intern – Proxenix (Remote, 2025)</strong> | Led full-stack development of Online Learning Platform and Feedback Collection System.</li>
+          <li><strong>Web Development Intern – Proxenix (Remote, 2025)</strong> | Led full-stack development of E-Learning Platform and Feedback Collection System.</li>
           <li><strong>MERN Development Intern – SKIT Jaipur (2024)</strong> | Led a 4-member team to build an Online Movie Streaming Application.</li>
           <li><strong>Web Development Intern – SKIT Jaipur (2023)</strong> | Built a library website with form handling via PHP and MySQL.</li>
         </ul>
