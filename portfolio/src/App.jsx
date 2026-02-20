@@ -182,7 +182,7 @@ export default function App() {
               Full-stack e-learning platform with authentication, dashboards, live sessions, and payment integration.
             </p>
             <div className="flex gap-4 mt-4">
-              <a href="https://github.com/yashkarodiwal/Online_Learning_Platform" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg text-sm font-medium hover:bg-gray-800 transition">
+              <a href="https://e-learning-platform-project.netlify.app/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg text-sm font-medium hover:bg-gray-800 transition">
                 <Github size={16} /> GitHub
               </a>
             </div>
@@ -208,7 +208,7 @@ export default function App() {
               MERN-based movie streaming site with APIs for category, name, random selection, and React integration.
             </p>
             <div className="flex gap-4 mt-4">
-              <a href="https://github.com/yashkarodiwal/Movie_Streaming_Website" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg text-sm font-medium hover:bg-gray-800 transition">
+              <a href="https://github.com/yashkarodiwal/Movie_Streaming_Application" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg text-sm font-medium hover:bg-gray-800 transition">
                 <Github size={16} /> GitHub
               </a>
             </div>
@@ -221,7 +221,7 @@ export default function App() {
               Library website with form handling and backend storage using PHP, MySQL, and phpMyAdmin.
             </p>
             <div className="flex gap-4 mt-4">
-              <a href="https://github.com/yashkarodiwal/Library_Website" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg text-sm font-medium hover:bg-gray-800 transition">
+              <a href="https://github.com/yashkarodiwal/Library_Management_Website" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg text-sm font-medium hover:bg-gray-800 transition">
                 <Github size={16} /> GitHub
               </a>
             </div>
